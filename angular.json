@@ -60,7 +60,7 @@
             "node_modules/bootstrap/dist/js/bootstrap.min.js"]
           },
           "configurations": {
-            "github-pages":{"baseHref": "/"},
+            "github-pages":{"baseHref": "/22_Tutorial_Oficial_Angular/"},
             "production": {
               "budgets": [
                 {
